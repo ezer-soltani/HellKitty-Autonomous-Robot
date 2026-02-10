@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADXL343BCCZ-RL")(type "KiCad")(uri "C:/Users/ezers/Desktop/Projet micro/ADXL343BCCZ-RL.kicad_sym")(options "")(descr ""))
+  (lib (name "BU33SD5WG-TR")(type "KiCad")(uri "C:/Users/ezers/Desktop/Projet micro/BU33SD5WG-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "MP1475DJ-LF-P")(type "KiCad")(uri "C:/Users/psnbj/Desktop/3éme ING électrique/ROBOT/MP1475DJ-LF-P/KiCad/MP1475DJ-LF-P.kicad_sym")(options "")(descr ""))
+)

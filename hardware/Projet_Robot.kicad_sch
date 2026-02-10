@@ -1,0 +1,986 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "21a14c86-6900-4d4b-9d91-6c59051d0f41")
+	(paper "A4")
+	(title_block
+		(title "Hello_kitty")
+		(date "2025-10-13")
+		(company "Ensea")
+		(comment 1 "Aymen_BEN_JEMAA")
+		(comment 2 "Ezer_SOLTANI")
+		(comment 3 "Serine_ROUABAH")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 73.66 96.52) (xy 87.63 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05a875c1-3c08-45a7-998d-95d39c509d76")
+	)
+	(wire
+		(pts
+			(xy 73.66 118.11) (xy 87.63 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21e136fb-db5f-4756-b4c5-00d316480052")
+	)
+	(wire
+		(pts
+			(xy 73.66 86.36) (xy 87.63 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "281bca3d-9aca-43b1-b149-15bc902f561e")
+	)
+	(wire
+		(pts
+			(xy 165.1 100.33) (xy 220.98 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2acb3f8a-cde2-4b7a-b83e-50b8ea11d607")
+	)
+	(wire
+		(pts
+			(xy 73.66 88.9) (xy 87.63 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3786fce2-eefa-43f0-9b08-37ac5583e879")
+	)
+	(wire
+		(pts
+			(xy 165.1 80.01) (xy 220.98 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37cfc26c-394a-4c4e-9bfe-caf719da061b")
+	)
+	(wire
+		(pts
+			(xy 165.1 116.84) (xy 220.98 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a67e491-681d-4ac2-abc3-d2e443677295")
+	)
+	(wire
+		(pts
+			(xy 165.1 125.73) (xy 220.98 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b3bf178-3faf-41f3-96ae-ad64bcc9fab2")
+	)
+	(wire
+		(pts
+			(xy 165.1 113.03) (xy 220.98 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "524b5091-5f63-4a06-b071-ddc70d7c6dbb")
+	)
+	(wire
+		(pts
+			(xy 165.1 92.71) (xy 220.98 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "705c7aa1-d114-4dd1-b0b5-67823f1848bd")
+	)
+	(wire
+		(pts
+			(xy 165.1 85.09) (xy 220.98 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b67cb16-d8c6-491a-a317-fef9969f1729")
+	)
+	(wire
+		(pts
+			(xy 73.66 115.57) (xy 87.63 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cd6d132-48f4-4345-835f-f3d967ee9b8a")
+	)
+	(wire
+		(pts
+			(xy 165.1 110.49) (xy 220.98 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "987cd7d9-07ee-43b9-8fdd-d7e765fe9989")
+	)
+	(wire
+		(pts
+			(xy 165.1 133.35) (xy 220.98 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98e494f9-bf0f-4332-8621-e2694ef17281")
+	)
+	(wire
+		(pts
+			(xy 165.1 102.87) (xy 220.98 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1e65f91-34ca-4319-ab08-404f2edfb949")
+	)
+	(wire
+		(pts
+			(xy 165.1 130.81) (xy 220.98 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4e878ef-2964-4813-97e9-6c2fe90460c1")
+	)
+	(wire
+		(pts
+			(xy 165.1 90.17) (xy 220.98 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bafb5833-bd0e-4970-8ef3-a38408f25d0f")
+	)
+	(wire
+		(pts
+			(xy 165.1 119.38) (xy 220.98 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0a44048-6684-4072-8c34-bdb089637fc4")
+	)
+	(wire
+		(pts
+			(xy 165.1 123.19) (xy 220.98 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c369d62f-6639-4954-aecd-b28f9e624623")
+	)
+	(wire
+		(pts
+			(xy 73.66 123.19) (xy 87.63 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb83e4ef-a2a8-4e8f-a5e9-20d242ccfa63")
+	)
+	(wire
+		(pts
+			(xy 73.66 125.73) (xy 87.63 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de440a4a-e23b-4e20-891b-9f3935342401")
+	)
+	(wire
+		(pts
+			(xy 165.1 68.58) (xy 220.98 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e59ed8b9-996c-4a83-9f00-bfbc29a56d71")
+	)
+	(wire
+		(pts
+			(xy 73.66 93.98) (xy 87.63 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9659da0-7374-495c-a2c3-d9bd953e4d65")
+	)
+	(wire
+		(pts
+			(xy 165.1 82.55) (xy 220.98 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa2ad35f-5f89-45fd-b487-9117a2c7f9cc")
+	)
+	(wire
+		(pts
+			(xy 165.1 71.12) (xy 220.98 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb69aeb1-d098-4226-bbde-fd58e4ac06f9")
+	)
+	(sheet
+		(at 39.37 82.55)
+		(size 34.29 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1388fddc-2e50-4e98-ba2d-1c17e87787d8")
+		(property "Sheetname" "Moteur1"
+			(at 39.37 80.5684 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "moteur1.kicad_sch"
+			(at 39.37 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ENC1_PH1" input
+			(at 73.66 86.36 0)
+			(uuid "aa833be0-411a-4ced-aa72-fac4dab4952a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ENC1_PH2" input
+			(at 73.66 88.9 0)
+			(uuid "7fcce86c-7a92-4344-a6a8-016934d88994")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_Mot1_CH1" input
+			(at 73.66 93.98 0)
+			(uuid "a7eb9db9-f3df-4cd0-bc39-8ca0ee86b2dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_Mot1_CH2" input
+			(at 73.66 96.52 0)
+			(uuid "51a78a07-7909-472f-a0ce-c007fb0d7553")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Projet_Robot"
+				(path "/21a14c86-6900-4d4b-9d91-6c59051d0f41"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 64.77)
+		(size 77.47 85.09)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "31be01aa-b096-4901-8c4f-f2a7c3166097")
+		(property "Sheetname" "µcontrolleur"
+			(at 87.63 62.7884 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(thickness 0.508)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "µcontrolleur.kicad_sch"
+			(at 87.63 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LIDAR_USART2_RX" input
+			(at 165.1 68.58 0)
+			(uuid "0aec8a1b-add3-4e93-a87c-e03b699cc08f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Bluetooth_USART3_RX" input
+			(at 165.1 80.01 0)
+			(uuid "498d886e-1514-4c54-a3e6-72d853ed4f3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Bluetooth_USART3_TX" input
+			(at 165.1 82.55 0)
+			(uuid "107edc44-9e15-48b0-af24-490385af7b60")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C1_SCL" input
+			(at 165.1 90.17 0)
+			(uuid "4eb33dc2-5741-4c6b-b9c8-65b441bfa1ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C1_SDA" input
+			(at 165.1 92.71 0)
+			(uuid "76311dcf-d3e6-4994-9315-636bc49b8f4d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ENC1_PH1" input
+			(at 87.63 86.36 180)
+			(uuid "6d34613f-0787-4833-8c84-05a1a8c2fb3a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ENC1_PH2" input
+			(at 87.63 88.9 180)
+			(uuid "37f38a59-cc92-4ed4-8678-768ccaea08cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ENC2_PH1" input
+			(at 87.63 115.57 180)
+			(uuid "0485eba6-8a24-4331-b970-b931507253d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ENC2_PH2" input
+			(at 87.63 118.11 180)
+			(uuid "777c306b-3787-43c3-8546-19b750ac50b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_Mot1_CH1" input
+			(at 87.63 93.98 180)
+			(uuid "c9c97bd8-e7f1-4a75-b9ee-56da003752f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_Mot1_CH2" input
+			(at 87.63 96.52 180)
+			(uuid "51648bbc-c98f-43df-80ae-0c895f32853f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_Mot2_CH1" input
+			(at 87.63 123.19 180)
+			(uuid "79bcc243-1ab3-4aee-b6e0-23d21dc9170e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_Mot2_CH2" input
+			(at 87.63 125.73 180)
+			(uuid "d42b48ab-0f36-41aa-ae36-684cea85a3c1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "M_CTR" input
+			(at 165.1 71.12 0)
+			(uuid "61202281-a60b-4c8c-a66f-c99c80a13dd5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ACC_INT1" input
+			(at 165.1 100.33 0)
+			(uuid "a8d1ae0c-7405-45f5-b778-94c2741a3b7e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ACC_INT2" input
+			(at 165.1 102.87 0)
+			(uuid "b6390fde-9ed5-4b98-b3f8-479db6f02ca8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "tof1_GPIO" input
+			(at 165.1 110.49 0)
+			(uuid "cde4fe6f-cebe-4d1f-8ffa-c16d87662afe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TOF1_XSHUT" input
+			(at 165.1 113.03 0)
+			(uuid "e55f9f43-e9a7-4917-989f-f8ebec4d7516")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "tof2_GPIO" input
+			(at 165.1 116.84 0)
+			(uuid "f6c1a04f-cda1-4eb2-a956-ef45776ff854")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TOF2_XSHUT" input
+			(at 165.1 119.38 0)
+			(uuid "40787961-788f-4dbb-97a9-818ca6b41b94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "tof3_GPIO" input
+			(at 165.1 123.19 0)
+			(uuid "f98de4fb-efa0-458d-bcca-22845d1cc141")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TOF3_XSHUT" input
+			(at 165.1 125.73 0)
+			(uuid "8d1952e9-47ae-446b-8c31-3cb2b94e93be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "tof4_GPIO" input
+			(at 165.1 130.81 0)
+			(uuid "5d229333-595d-4f03-a117-1ee0b6999eee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TOF4_XSHUT" input
+			(at 165.1 133.35 0)
+			(uuid "2565b0dd-6a16-445d-bf59-f735cafb37ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Bluetooth_En" input
+			(at 165.1 85.09 0)
+			(uuid "7e238ffd-060c-4f27-b488-8e4313e9cd7b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Projet_Robot"
+				(path "/21a14c86-6900-4d4b-9d91-6c59051d0f41"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220.98 66.04)
+		(size 48.26 73.66)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "76b000bd-d8d0-4821-bef4-3e858ee71b1c")
+		(property "Sheetname" "Capteurs"
+			(at 220.98 64.0584 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(thickness 0.4763)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "capteur.kicad_sch"
+			(at 220.98 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LIDAR_USART2_RX" input
+			(at 220.98 68.58 180)
+			(uuid "6f60a34f-1f92-42bb-9239-e3cc97b3d9c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Bluetooth_USART3_RX" input
+			(at 220.98 80.01 180)
+			(uuid "c4bbe6d5-40a5-4950-b556-5c9c6872f769")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Bluetooth_USART3_TX" input
+			(at 220.98 82.55 180)
+			(uuid "005dc30c-a4ed-41a4-934d-ee9fa658a216")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C1_SCL" input
+			(at 220.98 90.17 180)
+			(uuid "546f9c72-17ce-4eae-a359-6fc47fee9d25")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C1_SDA" input
+			(at 220.98 92.71 180)
+			(uuid "86bc970a-14f3-4b06-b530-9ec20584dbfe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "M_CTR" input
+			(at 220.98 71.12 180)
+			(uuid "abac4411-6cab-403a-a3d3-40f343c3adc9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ACC_INT1" input
+			(at 220.98 100.33 180)
+			(uuid "cee481e4-724a-42a3-817e-6ab6ee73f87e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ACC_INT2" input
+			(at 220.98 102.87 180)
+			(uuid "0526f085-01ed-45c5-ad51-fb0f729b7be6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tof1_GPIO" input
+			(at 220.98 110.49 180)
+			(uuid "76f4be51-76a2-44c2-ac66-845a47aebdb9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TOF1_XSHUT" input
+			(at 220.98 113.03 180)
+			(uuid "0625abfa-c2c2-49ee-9efd-d83f5530bbac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tof2_GPIO" input
+			(at 220.98 116.84 180)
+			(uuid "633ac32f-56dd-443c-9c2e-ac60a5f09a09")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TOF2_XSHUT" input
+			(at 220.98 119.38 180)
+			(uuid "5014eba6-b05c-48eb-a15b-ae85f777826d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tof3_GPIO" input
+			(at 220.98 123.19 180)
+			(uuid "66095c6d-351b-4934-8c43-6419f8e2a2b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TOF3_XSHUT" input
+			(at 220.98 125.73 180)
+			(uuid "0fa0ab46-7ee2-4309-9e29-f5d0bb28f51d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tof4_GPIO" input
+			(at 220.98 130.81 180)
+			(uuid "910326d0-91a3-484f-baea-d81fce5d691a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TOF4_XSHUT" input
+			(at 220.98 133.35 180)
+			(uuid "04174af3-47e2-4661-b0b8-b539068f2961")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Bluetooth_En" input
+			(at 220.98 85.09 180)
+			(uuid "f93243f7-34be-4e60-9584-17eba46dea60")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Projet_Robot"
+				(path "/21a14c86-6900-4d4b-9d91-6c59051d0f41"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 25.4)
+		(size 20.32 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9e9ae578-0fe2-489e-a2e9-26a89bc45f88")
+		(property "Sheetname" "Régulateurs"
+			(at 170.18 23.4184 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(thickness 0.4763)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "regulateurs.kicad_sch"
+			(at 170.18 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projet_Robot"
+				(path "/21a14c86-6900-4d4b-9d91-6c59051d0f41"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 111.76)
+		(size 34.29 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aa5a4c0f-7d13-4543-a78f-f39351de5880")
+		(property "Sheetname" "Moteur2"
+			(at 39.37 109.7784 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "moteur1.kicad_sch"
+			(at 39.37 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ENC1_PH1" input
+			(at 73.66 115.57 0)
+			(uuid "7b59581e-d1e1-41f3-bebe-2235058d0409")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ENC1_PH2" input
+			(at 73.66 118.11 0)
+			(uuid "d4b9847a-feb9-45e8-9c00-3e89210f8d2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_Mot1_CH1" input
+			(at 73.66 123.19 0)
+			(uuid "2c4c70f3-600b-42fd-9e43-0959e81bbc25")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_Mot1_CH2" input
+			(at 73.66 125.73 0)
+			(uuid "1d185392-85f2-402c-8f6d-fb157dd4bfd8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Projet_Robot"
+				(path "/21a14c86-6900-4d4b-9d91-6c59051d0f41"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
